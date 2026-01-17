@@ -26,4 +26,4 @@ You get a local copy of all the files in the project on your personal computer.
 
 ## 6. What is a Pull Request?
 
-A proposal to merge a set of changes from one branch of a project to the main branch which allows for code review and discussion before it is approved.
+A proposal to merge a set of changes from one branch of a project to the main branch which allows for code review and discussion before it is approved
